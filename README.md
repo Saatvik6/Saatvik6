@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-Saatvik6-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
+-
 👨‍💻 About Me
 🎓 B.Tech Computer Science & Engineering student at Manipal Institute of Technology, Bengaluru — Class of 2028
 🤖 Interested in AI/ML, computer vision, intelligent systems, and AI-native product development
@@ -28,7 +28,7 @@
 🧠 Currently exploring agentic AI, multimodal reasoning, tool use, and deployable AI systems
 👥 General Secretary, IEEE Computer Society, with experience in community building, leadership, and public speaking
 🔎 Open to Software Engineering / AI-ML internship opportunities where I can build products with real-world impact
----
+-
 🛠️ Tech Stack
 Languages
 <p>
