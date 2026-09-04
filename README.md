@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-Saatvik6-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
----
+
 👨‍💻 About Me
 🎓 B.Tech Computer Science & Engineering student at Manipal Institute of Technology, Bengaluru — Class of 2028
 🤖 Interested in AI/ML, computer vision, intelligent systems, and AI-native product development
